@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KaKaSubstituteDriving</string>
+
+    <string name="tab_1">달 력</string>
+    <string name="tab_2">현장설정</string>
+    <string name="tab_3">알람기능</string>
+
+
+    <string name="menu_header_layout_1_txt_1">인강목록</string>
+    <string name="menu_header_layout_2_txt_1">적립내역</string>
+    <string name="menu_header_layout_2_txt_2">출금하기</string>
+    <string name="menu_header_layout_2_txt_3">추천하기</string>
+
+    <string name="nav_header_title">test</string>
+    <string name="menu_list_txt_0">ㅇㄹㅇㅇㄹ</string>
+    <string name="title_mainactivity">ㅇㄹㅇㄹ</string>
+
+</resources>
